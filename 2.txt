@@ -1,0 +1,3 @@
+cd.. - change dir backward cd/ - direct enter into drive back mkdir/md dirmame - make folder  rmdir dirmame - remove folder
+xcopy file.txt "dirname" - copy and paste xcopy *.txt "dirname" -all files will be copy with txt extension move file.txt "dirname" - cut and paste
+move *.txt "dirname" - all del *.txt - all ren file.txt changename.txt - rename net start - check your services eg windows audio

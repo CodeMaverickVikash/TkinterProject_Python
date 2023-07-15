@@ -1,0 +1,7 @@
+
+('harry', '9348573', 'male', '123', 'card', 1)
+('harry', '9348573', 'male', '123', 'card', 1)
+('harry', '9348573', 'male', '123', 'card', 1)
+('rohandas', '9348573', 'male', '123', 'card', 1)
+('raja', '45678', 'male', '123', 'card', 1)
+('king', '', 'female', '', '', 1)
